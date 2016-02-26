@@ -33,7 +33,7 @@ Icon
 nbproject/private/
 build/
 nbbuild/
-#dist/
+dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
@@ -43,7 +43,7 @@ nb-configuration.xml
 # --------------------
 .nodemonignore
 npm-debug.log
-#node_modules/
+node_modules/
 
 # --------------------
 # SASS Files
@@ -54,7 +54,7 @@ npm-debug.log
 # Bower Files
 # --------------------
 .bower-*/
-#bower_components
+bower_components
 
 # --------------------
 # App Files
@@ -63,9 +63,9 @@ data/
 tests/results/**
 modules/public/
 modules/views/
-#/public/build/
-#/packages/contrib/
-#/packages/**/**/public/assets/lib
+/public/build/
+/packages/contrib/
+/packages/**/**/public/assets/lib
 
 
 # --------------------
